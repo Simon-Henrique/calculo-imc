@@ -1,0 +1,41 @@
+body {
+    background: rgb(1, 1, 22);
+    font: normal 15pt arial;
+}
+header {
+    color: rgb(204, 25, 25);
+    text-align: center; /*centralizando texto*/
+}
+section {
+    background: white;
+    border-radius: 10px; /*arredondando as bordas*/
+    padding: 15px; /*espaço interno*/
+    width: 500px; /*largura fixa*/
+    margin:auto; /*centralizar no meio da tela*/
+    box-shadow: 5px 5px 10px rgb(97, 96, 96); /*efeito de sombra traseiro*/
+}
+footer {
+    color: white;
+    text-align: center; /*centralizando texto*/
+    font-style: italic;
+}
+input#altura {
+    width: 50px;
+}
+input#peso {
+    width: 50px;
+    margin-left: 5px;
+}
+input#verif {
+    margin-top: 20px;
+    width: 200px;
+}
+div#res {
+    margin-top: 30px;
+    text-align: center;
+}
+div#div1 {
+    margin:auto;    
+    margin-left: 150px;
+
+}
