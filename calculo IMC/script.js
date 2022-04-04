@@ -35,6 +35,6 @@ function IMC() {
     }
     }
          else {
-        window.alert('verifique as informações e tente novamente')
+        window.alert('verifique as informações e tente novamente!!')
     } 
 }
